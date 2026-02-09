@@ -1,0 +1,17 @@
+step-1: Initialization
+   - npm init
+
+step-2: take help of express:- 
+  - npm i express
+  - then add " "dev": "node --watch index.js" " in scripts of package.json file
+  - "dev": "node --watch index.js" ------> for continuous running of file in the terminal
+
+step-3: create a server port or where frontend can call backend using API
+    - APIs works by sending HTTP requests (GET, POST, PUT, DELETE) and receiving responses, typically in JSON format, between the client and the server.
+    - server is created in index.js file
+
+
+--> CORS (cross origin resource share): 
+    -its used to add a security inside the backend which is restrict acees to all the frontend 
+    - npm i cors 
+    - then add code in index.js file
