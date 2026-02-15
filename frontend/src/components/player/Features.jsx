@@ -108,7 +108,7 @@ const Features = ({playerState, playerFeatures}) => {
           onChange={handleVolumeChange}
           className="features-volume-range"
           style={{
-            background: `linear-gradient(to right, $a855f7 ${volume * 100}%, #333 ${volume * 100}% )`,
+            background: `linear-gradient(to right, #a855f7 ${volume * 100}%, #333 ${volume * 100}% )`,
           }}
         />
       </div>
