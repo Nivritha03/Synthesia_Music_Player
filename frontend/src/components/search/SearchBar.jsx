@@ -74,3 +74,6 @@ const SearchBar = ({ setSearchSongs }) => {
 };
 
 export default SearchBar;
+
+
+
