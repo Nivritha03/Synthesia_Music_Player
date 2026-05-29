@@ -1,6 +1,6 @@
-# VibeSync (Fullstack Music Player)
+#Synthesia (Fullstack Music Player)
 
-VibeSync is a comprehensive full-stack music player application built using the MERN stack (MongoDB, Express, React, Node.js). It is designed to provide a rich music playing experience, complete with intuitive playback controls, playlist management, user authentication, and profile personalization.
+Synthesia is a comprehensive full-stack music player application built using the MERN stack (MongoDB, Express, React, Node.js). It is designed to provide a rich music playing experience, complete with intuitive playback controls, playlist management, user authentication, and profile personalization.
 
 ## 🌟 Key Features
 
